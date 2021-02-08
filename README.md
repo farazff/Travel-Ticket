@@ -5,7 +5,7 @@
 This project is a windows application for buying Airplane and Train tickets.
 So you can sign up and then you have access to you personal Wallet then you can charge your wallet and enjoy traveling.
 
-This project has developed by :\
+This project has been developed by :\
 [1) Faraz Farangizadeh](https://github.com/farazff)\
 [2) Amir Sabbagh](https://github.com/amir-sbg)\
 [3) Amin Habibolah](https://github.com/aminhbl)\
@@ -28,8 +28,7 @@ This section is list of any major Programming Languages, frameworks, Libraries a
 * [JAVA](https://www.java.com/en/)
 * [JFoneix](http://www.jfoenix.com/)
 * [JavaFX](https://openjfx.io/)
-* [Scene Builder](https://gluonhq.com/products/scene-builder/#:~:text=Scene%20Builder%20is%20free%20and,training%20and%20custom%20consultancy%20services.)
-* [FontAwesomeFX](https://fontawesome.com/)
+* [CSS](https://www.w3.org/)
 
 
 
@@ -38,21 +37,21 @@ This section is list of any major Programming Languages, frameworks, Libraries a
 
 Here we have some Screen shots from the program in order to introduce our application.
 
-## Signup page
+### Signup page
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Sign%20Up.PNG?raw=true)
-## Signin page
+### Signin page
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Log%20In.PNG?raw=true)
-## Profile page
-#### you can easily change your personal info in this page.
+### Profile page
+##### you can easily change your personal info in this page.
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Profile.PNG?raw=true)
-## Wallet page
-#### You can charge your wallet to pay the tickets price directly from wallet.
+### Wallet page
+##### You can charge your wallet to pay the tickets price directly from wallet.
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Wallet.PNG?raw=true)
-## Search page
-#### You can search tickets by the origin and destination city and the date.
+### Search page
+##### You can search tickets by the origin and destination city and the date.
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Search%20Page.PNG?raw=true)
-## Tickets page
-#### In this page you can see the tickets that you are looking for and also you can order them by time or filter them by airline.
+### Tickets page
+##### In this page you can see the tickets that you are looking for and also you can order them by time or filter them by airline.
 ![alt text](https://github.com/Amir79Naziri/TravelTicket/blob/master/Screen%20Shots/Tickets.PNG?raw=true)
 
 
